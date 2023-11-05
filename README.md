@@ -1,2 +1,4 @@
 # Japanese_learn
-## All markdown files need to be opened via ObsiDian
+**All markdown need plugin:Furigana**
+
+**recommand to open via Obsidian**
